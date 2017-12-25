@@ -369,7 +369,7 @@ Here are the course summary as its given on the course [link](https://www.course
     `64, 128, 256, 512, 1024....`
   - Make sure mini-batch fits in CPU/GPU
 - Mini batch size is a Hyperparameter.
--![](Images/kiank_sgd.png.png)
+-![](Images/kiank_sgd.png)
 
 ### Exponentially weighted averages
 
