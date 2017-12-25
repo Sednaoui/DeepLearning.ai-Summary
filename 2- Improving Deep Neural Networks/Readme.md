@@ -487,7 +487,7 @@ Here are the course summary as its given on the course [link](https://www.course
    `W = W - learning_rate * dW/(sqrt(SdW) + epsilon)`
 
 - With this algorithm you can increase your learning rate.
-- Developed by Jeoffery Hinton on [Coursea.com](Coursea.com ).
+- Developed by Geoffrey Hinton on [Coursea.com](Coursea.com ).
 
 ### Adam optimization algorithm
 
